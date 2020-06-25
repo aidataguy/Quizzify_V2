@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803442587141",
+    "firebase_url": "https://quizzify-ec125.firebaseio.com",
+    "project_id": "quizzify-ec125",
+    "storage_bucket": "quizzify-ec125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803442587141:android:7c289b14e284d251fe8e6c",
+        "android_client_info": {
+          "package_name": "me.himanshupatel.quizzify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803442587141-8ht8dlko8ofvvrs1bqujif0nef088but.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm8nheSe8dA3YQ4Xuym8KFj5VhrgWUgCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803442587141-8ht8dlko8ofvvrs1bqujif0nef088but.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803442587141-flbhgf2k4jqvm5j4s3pm53hhdrkqivhi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.himanshupatel.quizzify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
